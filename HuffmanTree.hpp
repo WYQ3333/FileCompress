@@ -73,6 +73,7 @@ public:
         _pRoot = q.top();
     }
 
+
     HTNode* GetRoot(){
         return _pRoot;
     }
